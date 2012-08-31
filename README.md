@@ -1,6 +1,6 @@
 # Fork Me
 
-A smart package for showing those fucking github ribbons
+A fun way to show smart packages
 
 ## Usage
 

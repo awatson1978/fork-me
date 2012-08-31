@@ -1,6 +1,6 @@
 {
   "name": "fork-me",
-  "description": "A smart package for showing github ribbons",
+  "description": "A fun way to show github ribbons",
   "homepage": "https://github.com/possibilities/meteor-fork-me",
   "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
   "version": "0.0.2",
